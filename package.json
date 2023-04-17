@@ -1,0 +1,17 @@
+{
+  "name": "slashstation-final",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "node ./main"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.9.0",
+    "fs": "^0.0.1-security",
+    "mongodb": "^5.2.0",
+    "mongodb-connection-string-url": "^2.6.0"
+  }
+}
